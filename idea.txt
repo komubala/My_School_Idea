@@ -3,14 +3,15 @@ My idea for my school:
 I envision myself as both the chief administrator (because I need deciding authority) and a teacher.
 
 My vision: A school in a rural area. A school which allows a student to explore a variety of subjects: science, maths, history, geography, 
-economics or commercial education including practical and mathematical training, music or other fine arts, linguistics and literature in various Indian 
+economics or commercial education including practical and mathematical training in business, music or other fine arts, linguistics and literature in various Indian 
 and foreign languages, physical sports, workshop abilities (carpentry, plumbing, etc.), and agriculture/horticulture.
-Whatever the topic they choose, they have to train themselves to excel in it without any lackadaisical attitude. They will also work on 
+Whatever topic they choose, they have to train themselves to excel in it without any lackadaisical attitude. They will also work on 
 gaining all necessary life skills and existentially necessary knowledge reserves (history to know where you came from, math and basic sciences 
 to live and be logical, geography to know where you are, economics so that you are not conned, languages so that you can speak up for yourself, 
 etc.). If the student's aptitude is aligned with a particular field (academic, art, or other), that will certainly be encouraged and trained. 
 However, the student will have to also gain a rounded holistic basic education and will not be excused because of their excellence in one field. 
-I strongly feel that this will help the student be more aware and truly educated.
+I strongly feel that this will help the student be more aware and truly educated. 
+This would mean a great deal of effort both from the student and the teachers.
 
 They will initially receive the opportunity to try out projects in every subject of interest. Also, there will be regular open days 
 in each department where they will be encouraged to get exposure to the different projects being pursued and exposure to the 
@@ -47,7 +48,14 @@ Instilling a deep sense of pride and gratitude towards India and one's own foref
 
 This requires:
 1. Exceptional teachers in each of these subjects who are interested at a research level in their topic of interest 
-and also pedagogically oriented. They should have a natural inclination to learn, upgrade and adapt themselves constantly.
+and also pedagogically oriented. They should have a natural inclination to learn, upgrade and adapt themselves constantly. 
+1a. The school will provide necessary support such as a centrally maintained behaviour journal 
+for each student which each teacher handling the student can append to and view. The summary of 
+such journal entries will be discussed in staff committee meetings that need to be organized 
+weekly to better adapt teaching techniques. Strengths and weaknesses of each student will be 
+monitored and techniques to help each student will be discussed. The workload of a teacher 
+per student will be heavy. So the total number of students to teachers ratio needs to be small, 
+ideally 10-15.
 
 2. Infrastructure that supports any research vetted by a panel of subject experts from outside the school
 (within a reasonable fund limit) that either the faculty or student wishes to carry out should be fully supported.
@@ -64,7 +72,7 @@ industrial exposure/conference/workshops and events like thygaraya utsavam for m
 a small-time business person who has achieved fame and goodwill with a good (ethically and business-wise) local business, and the 
 founder in a big corporate that is rated as both the best in business and in ethical handling of affairs.
 It would show them that success is never well-defined in terms of wealth earned. It is better defined by the "goodness" of the impact 
-we have on society - big or small. By the hard work and passion that drives such a work. 
+we have on society - big or small. By the hard work and passion that drives such work. 
 
 4. Special attention will be needed in encouraging students to join national services such as the three divisions of national defence, 
 Indian administrative and police services, intelligence, and other such fields. Army/naval/air-force officers, IAS, IPS, and IFS officers
